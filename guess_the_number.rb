@@ -1,1 +1,3 @@
-puts "hey"
+puts "welcome to guess the number !!!"
+secret_number = rand(6)
+puts secret_number
